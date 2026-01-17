@@ -1,35 +1,20 @@
 {
-  "name": "world-boss",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "world-boss-vue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "dependencies": {
+    "ethers": "^6.16.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.6.4"
+  },
   "devDependencies": {
-    "@nomicfoundation/hardhat-chai-matchers": "^2.1.0",
-    "@nomicfoundation/hardhat-network-helpers": "^3.0.3",
-    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
-    "@nomiclabs/hardhat-ethers": "^2.2.3",
-    "@nomiclabs/hardhat-etherscan": "^3.1.8",
-    "@openzeppelin/contracts": "^4.9.3",
-    "@typechain/ethers-v5": "^11.1.2",
-    "@typechain/hardhat": "^9.1.0",
-    "@types/chai": "^5.2.3",
-    "@types/mocha": "^10.0.10",
-    "@types/node": "^25.0.8",
-    "chai": "^6.2.2",
-    "dotenv": "^17.2.3",
-    "ethers": "^5.7.2",
-    "hardhat": "^2.28.3",
-    "hardhat-gas-reporter": "^2.3.0",
-    "solidity-coverage": "^0.8.17",
-    "ts-node": "^10.9.2",
-    "typechain": "^8.3.2",
-    "typescript": "^5.9.3"
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.5"
   }
 }
