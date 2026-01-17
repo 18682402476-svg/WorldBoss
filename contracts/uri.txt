@@ -1,0 +1,18 @@
+boss名称：烈焰巨龙 等级：史诗级 描述：拥有毁灭性火焰吐息的古老巨龙，挑战它需要勇气与力量。生命值：100000 技能：火焰吐息 
+烈焰巨龙图片1：https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafybeiaxal2hsx5nnuchpv5ox5itejfnclwyk6v3siox5gdrey2diip3fu
+烈焰巨龙图片2：https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreig5a6vkn3h2ukzq7iqyufpby6qr4gksauejt7o5hrbk2z6zmvl3xm
+烈焰巨龙第一名:https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreiesjkwv7hlrrxldgfl7oaoud3z7vuozqifiaytxhf2eazh57lt4zm
+烈焰巨龙第二名:https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreif37ywbuxvkrwifssyt4fmutga2ejzv5geh7laaazkkfyfoo2hiia
+烈焰巨龙第三名:https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreificzqq6lbqufug6zigciq5qebl5je52ombpcjcearukuc74vm27a
+boss名称: 暗影巨人 等级：稀有级 描述：由暗影能量构成的巨大雕像，能冻结一切接近它的敌人。 生命值：75000 技能寒冰风暴
+暗影巨人图片1：https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafybeiarytsis3zrh6qrxfgb4uxw6outl24pquirtiqemli22zm5hyqjsq
+暗影巨人图片2：https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreiaj5vsvgwe3fwjshgrnqxk6zc76stbgolqmv6gpijqz32nf2hsxzy
+暗影巨人第一名:https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreigtyrihzatnjyx4jucpxaa4n4p6krwvgu4d3e6omtfe3bpqovcld4
+暗影巨人第二名:https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreiabz32jxtkic34wtzr5fgjycr64ehjqtextgqb6rwx6olbjzifrzm
+暗影巨人第三名:https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreifhjgcz3xmisdcmtxcuubexmchwx72qjk353525nvc72trdm64vky
+boss名称：暗影刺客 等级：普通级 描述：神出鬼没的暗影刺客，擅长使用暗影突袭攻击敌人。 生命值：500 技能：暗影突袭
+暗影刺客图片1：https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafybeifjkx5xiirbmsow7mqer5wu2rxzdzwfcfqwx46ukqvrpysrsezbty
+暗影刺客图片2：https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreifk3ynmxc4ceszhqrdhfxr3eujpwem4qcmd7kynknwjrd6qvs424a
+暗影刺客第一名:https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreid7enqhuebvjp5vgmljyoo2ctwxe3tjwhxq2wwm7n65hxcwf4p5a4
+暗影刺客第二名:https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreifrvk7nshfq4mpyxfst3s7y7uo2ttsrbuymxexlnz7oqknmf6dmrm
+暗影刺客第三名:https://coffee-official-centipede-389.mypinata.cloud/ipfs/bafkreig4xhzhrxqny7mkpcq6hazndhbntoofurdiowqqqu6nmkmgddns3a
